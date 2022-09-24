@@ -50,7 +50,7 @@
     display: grid;
 }
 
-.calculator-grid > button {
+.calculator-grid  button {
     cursor: pointer;
     font-size: 2rem;
     border: 1px solid white;
